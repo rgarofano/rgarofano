@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub Profile
 
-<!--
-**rgarofano/rgarofano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+```ruby
+class RyanGarofano
+  def self.location
+    "📍 Vancouver, British Columbia"
+  end
 
-Here are some ideas to get you started:
+  def self.hobbies
+    [
+      "🥏 Ultimate Frisbee",
+      "💪 Weightlifting",
+      "💻 Fixing Computers",
+    ]
+  end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  def self.occupation
+    "👨‍💻 Software Engineer"
+  end
+
+  def self.company
+    "Arista Networks"
+  end
+end
+```
