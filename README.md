@@ -24,7 +24,7 @@ end
 ```
 
 ## My Utility Belt
-<p align="left">
+<div>
   <a href="https://neovim.io" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" /></a>
   <a href="https://www.gnu.org/software/bash/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" /></a>
   <a href="https://archlinux.org" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" height="40" /></a>
@@ -36,9 +36,10 @@ end
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /></a>
   <a href="https://tailwindcss.com" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
+  <a href="https://react.dev/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /></a>
   <a href="https://www.postgresql.org/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" /></a>
   <a href="https://rubyonrails.org" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="40" height="40" /></a>
-  <a href="https://react.dev/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /></a>
-</p>
+  <a href="https://docker.com" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40" height="40" /></a>
+</div>
           
           
